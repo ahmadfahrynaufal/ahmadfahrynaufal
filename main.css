@@ -27,3 +27,9 @@
     width: 50%;
 }
 }
+
+@media (max-width: 768px){
+.ok img {
+    width: 50%;
+}
+}
